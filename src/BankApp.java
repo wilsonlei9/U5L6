@@ -3,7 +3,6 @@ public class BankApp {
     public BankApp() {
 
     }
-
     public void option()
     {
         System.out.println("Press 1 to make a purchase or return");
@@ -14,4 +13,7 @@ public class BankApp {
         System.out.println("Press 6 to check inventory");
         System.out.println("Press 7 to quit");
     }
+
+
+
 }
